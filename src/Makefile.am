@@ -70,7 +70,7 @@ if BUILD_BITCOIND
 endif
 
 if BUILD_BITCOIN_UTILS
-  bin_PROGRAMS += havercoinnnnhavercoininininininininininininin-tx
+  bin_PROGRAMS += havercoin-cli havercoin-tx
 endif
 
 .PHONY: FORCE check-symbols check-security
