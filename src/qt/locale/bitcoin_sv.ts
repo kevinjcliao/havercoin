@@ -63,7 +63,7 @@
     </message>
     <message>
         <source>These are your havercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Detta är dina havercoin adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickarhavercoinins.</translation>
+        <translation>Detta är dina havercoin adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickarhavercoins.</translation>
     </message>
     <message>
         <source>These are your havercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
@@ -340,7 +340,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Send coins to a havercoin address</source>
-        <translation>Skicka havercoins till enhavercoinin-adress</translation>
+        <translation>Skicka havercoins till enhavercoin-adress</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -436,7 +436,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to havercoin network</source>
-        <translation><numerusform>%n aktiva anslutningar till havercoin-nätverket.</numerusform><numerusform>%n aktiva anslutningar tillhavercoinin-nätverket.</numerusform></translation>
+        <translation><numerusform>%n aktiva anslutningar till havercoin-nätverket.</numerusform><numerusform>%n aktiva anslutningar tillhavercoin-nätverket.</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -2273,8 +2273,8 @@ Var vänlig och försök igen.</translation>
         <translation>Ange en etikett för denna adress att adderas till listan över använda adresser</translation>
     </message>
     <message>
-        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thehavercoinin network.</source>
-        <translation>Ett meddelande som bifogades havercoin-URI, vilket lagras med transaktionen som referens. NB: Meddelandet kommer inte att sändas överhavercoininnätverket.</translation>
+        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thehavercoin network.</source>
+        <translation>Ett meddelande som bifogades havercoin-URI, vilket lagras med transaktionen som referens. NB: Meddelandet kommer inte att sändas överhavercoinnätverket.</translation>
     </message>
     <message>
         <source>Pay To:</source>

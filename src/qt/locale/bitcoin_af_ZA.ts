@@ -214,8 +214,8 @@
         <translation>&amp;Opsies</translation>
     </message>
     <message>
-        <source>havercoinnn</source>
-        <translation>havercoinnn</translation>
+        <source>havercoin</source>
+        <translation>havercoin</translation>
     </message>
     <message>
         <source>Wallet</source>

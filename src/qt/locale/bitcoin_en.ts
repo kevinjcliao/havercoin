@@ -3033,7 +3033,7 @@
     </message>
     <message>
         <location line="+47"/>
-        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thehavercoinin network.</source>
+        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thehavercoin network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

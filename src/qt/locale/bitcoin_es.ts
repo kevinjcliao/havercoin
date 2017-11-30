@@ -63,7 +63,7 @@
     </message>
     <message>
         <source>These are your havercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son sus direcciones havercoin para enviar pagos. Verifique siempre la cantidad y la dirección de recepción antes de enviahavercoininins.</translation>
+        <translation>Estas son sus direcciones havercoin para enviar pagos. Verifique siempre la cantidad y la dirección de recepción antes de enviahavercoins.</translation>
     </message>
     <message>
         <source>These are your havercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
@@ -339,7 +339,7 @@
     </message>
     <message>
         <source>Send coins to a havercoin address</source>
-        <translation>Enviar havercoins a una direccióhavercoininin</translation>
+        <translation>Enviar havercoins a una direccióhavercoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -435,7 +435,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to havercoin network</source>
-        <translation><numerusform>%n conexión activa hacia la red havercoin</numerusform><numerusform>%n conexiones activas hacia la rehavercoininin</numerusform></translation>
+        <translation><numerusform>%n conexión activa hacia la red havercoin</numerusform><numerusform>%n conexiones activas hacia la rehavercoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -2288,8 +2288,8 @@
         <translation>Introduce una etiqueta para esta dirección para añadirla a la lista de direcciones utilizadas</translation>
     </message>
     <message>
-        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thhavercoininin network.</source>
-        <translation>Un mensaje que se adjuntó a la havercoin: URL que será almacenada con la transacción para su referencia. Nota: Este mensaje no se envía a través de la rehavercoininin.</translation>
+        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thhavercoin network.</source>
+        <translation>Un mensaje que se adjuntó a la havercoin: URL que será almacenada con la transacción para su referencia. Nota: Este mensaje no se envía a través de la rehavercoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>

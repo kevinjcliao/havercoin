@@ -428,7 +428,7 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to havercoin network</source>
-        <translation><numerusform>%n aktív kapcsolat a havercoin hálózathoz</numerusform><numerusform>%n aktív kapcshavercoinininininininin hálózathoz</numerusform></translation>
+        <translation><numerusform>%n aktív kapcsolat a havercoin hálózathoz</numerusform><numerusform>%n aktív kapcshavercoin hálózathoz</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>

@@ -299,7 +299,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to havercoin network</source>
-        <translation><numerusform>%n aktivna povezava v omrežje havercoin</numerusform><numerusform>%n aktivni povezavi v omrežjhavercoininin</numerusform><numerusform>%n aktivne povezave v omrehavercoinoinoin</numerusform><numerusform>%n aktivnih povezav v omhavercoincoincoin</numerusform></translation>
+        <translation><numerusform>%n aktivna povezava v omrežje havercoin</numerusform><numerusform>%n aktivni povezavi v omrežjhavercoin</numerusform><numerusform>%n aktivne povezave v omrehavercoinoinoin</numerusform><numerusform>%n aktivnih povezav v omhavercoincoincoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -1476,8 +1476,8 @@
         <translation>Če vnesete oznako za zgornji naslov, se bo skupaj z naslovom shranila v imenk že uporabljenih naslovov</translation>
     </message>
     <message>
-        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thhavercoininin network.</source>
-        <translation>Sporočilo, ki ste ga pripeli na URI tipa havercoin:. Shranjeno bo skupaj s podatki o transakciji. Opomba: Sporočilo ne bo poslano preko omrežjhavercoininin.</translation>
+        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thhavercoin network.</source>
+        <translation>Sporočilo, ki ste ga pripeli na URI tipa havercoin:. Shranjeno bo skupaj s podatki o transakciji. Opomba: Sporočilo ne bo poslano preko omrežjhavercoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>

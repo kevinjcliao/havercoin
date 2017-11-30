@@ -435,7 +435,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to havercoin network</source>
-        <translation><numerusform>%n aktívne pripojenie do siete havercoin</numerusform><numerusform>%n aktívne pripojenia do sietehavercoinin</numerusform><numerusform>%n aktívnych pripojení do siethavercoinoin</numerusform></translation>
+        <translation><numerusform>%n aktívne pripojenie do siete havercoin</numerusform><numerusform>%n aktívne pripojenia do sietehavercoin</numerusform><numerusform>%n aktívnych pripojení do siethavercoinoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -2277,8 +2277,8 @@
         <translation>Vložte popis pre túto adresu aby sa uložila do zoznamu použitých adries</translation>
     </message>
     <message>
-        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thehavercoinin network.</source>
-        <translation>Správa ktorá bola pripojená k havercoin: URI a ktorá bude uložená s transakcou pre Vaše potreby. Poznámka: Táto správa nebude poslaná cez sieťhavercoinin.</translation>
+        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thehavercoin network.</source>
+        <translation>Správa ktorá bola pripojená k havercoin: URI a ktorá bude uložená s transakcou pre Vaše potreby. Poznámka: Táto správa nebude poslaná cez sieťhavercoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>

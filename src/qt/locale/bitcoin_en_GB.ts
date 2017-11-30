@@ -323,7 +323,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to havercoin network</source>
-        <translation><numerusform>%n active connection to havercoin network</numerusform><numerusform>%n active connections thavercoininin network</numerusform></translation>
+        <translation><numerusform>%n active connection to havercoin network</numerusform><numerusform>%n active connections thavercoin network</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -1652,8 +1652,8 @@
         <translation>Enter a label for this address to add it to the list of used addresses</translation>
     </message>
     <message>
-        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thhavercoininin network.</source>
-        <translation>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thhavercoininin network.</translation>
+        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thhavercoin network.</source>
+        <translation>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thhavercoin network.</translation>
     </message>
     <message>
         <source>Pay To:</source>

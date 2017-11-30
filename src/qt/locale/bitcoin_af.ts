@@ -62,12 +62,12 @@
         <translation>Ontvanger adresse</translation>
     </message>
     <message>
-        <source>These are your havercoinnn addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Hierdie is die adresse vanwaar u havercoinnn betalings stuur. U moet altyd die bedrag en die adres van die ontvanger nagaan voordat u enige munte stuur.</translation>
+        <source>These are your havercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Hierdie is die adresse vanwaar u havercoin betalings stuur. U moet altyd die bedrag en die adres van die ontvanger nagaan voordat u enige munte stuur.</translation>
     </message>
     <message>
-        <source>These are your havercoinnn addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Hierdie is die adresse waar u havercoinnns sal ontvang. Ons beveel aan dat u 'n nuwe adres kies vir elke transaksie</translation>
+        <source>These are your havercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Hierdie is die adresse waar u havercoins sal ontvang. Ons beveel aan dat u 'n nuwe adres kies vir elke transaksie</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -168,8 +168,8 @@
         <translation>Bevestig dat die beursie gekodifiseer is</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR havercoinnnS&lt;/b&gt;!</source>
-        <translation>Waarskuwing: Indien u die beursie kodifiseer en u vergeet u wagwoord &lt;b&gt;VERLOOR U AL U havercoinnnS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR havercoinS&lt;/b&gt;!</source>
+        <translation>Waarskuwing: Indien u die beursie kodifiseer en u vergeet u wagwoord &lt;b&gt;VERLOOR U AL U havercoinS&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -330,8 +330,8 @@
         <translation>Besig met herindeksering van blokke op hardeskyf...</translation>
     </message>
     <message>
-        <source>Send coins to a havercoinnn address</source>
-        <translation>Stuur munte na 'n havercoinnn adres</translation>
+        <source>Send coins to a havercoin address</source>
+        <translation>Stuur munte na 'n havercoin adres</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -350,8 +350,8 @@
         <translation>Maak ontfouting en diagnostiese konsole oop</translation>
     </message>
     <message>
-        <source>havercoinnn</source>
-        <translation>havercoinnn</translation>
+        <source>havercoin</source>
+        <translation>havercoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -378,12 +378,12 @@
         <translation>Kodifiseer die private sleutes wat aan jou beursie gekoppel is.</translation>
     </message>
     <message>
-        <source>Sign messages with your havercoinnn addresses to prove you own them</source>
-        <translation>Onderteken boodskappe met u havercoinnn adresse om u eienaarskap te bewys</translation>
+        <source>Sign messages with your havercoin addresses to prove you own them</source>
+        <translation>Onderteken boodskappe met u havercoin adresse om u eienaarskap te bewys</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified havercoinnn addresses</source>
-        <translation>Verifieër boodskappe om seker te maak dat dit met die gespesifiseerde havercoinnn adresse</translation>
+        <source>Verify messages to ensure they were signed with specified havercoin addresses</source>
+        <translation>Verifieër boodskappe om seker te maak dat dit met die gespesifiseerde havercoin adresse</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -398,8 +398,8 @@
         <translation>Orebalk</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and havercoinnn: URIs)</source>
-        <translation>Versoek betalings (genereer QR-kodes en havercoinnn: URI's)</translation>
+        <source>Request payments (generates QR codes and havercoin: URIs)</source>
+        <translation>Versoek betalings (genereer QR-kodes en havercoin: URI's)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -410,8 +410,8 @@
         <translation>Vertoon die lys van gebruikte ontvangers-adresse en etikette</translation>
     </message>
     <message>
-        <source>Open a havercoinnn: URI or payment request</source>
-        <translation>Skep 'n havercoinnn: URI of betalingsversoek</translation>
+        <source>Open a havercoin: URI or payment request</source>
+        <translation>Skep 'n havercoin: URI of betalingsversoek</translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -1012,8 +1012,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>havercoinnn Core</source>
-        <translation>havercoinnn Kern</translation>
+        <source>havercoin Core</source>
+        <translation>havercoin Kern</translation>
     </message>
     <message>
         <source>Information</source>

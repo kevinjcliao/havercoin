@@ -435,7 +435,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to havercoin network</source>
-        <translation><numerusform>%n активных соединений с сетью havercoin</numerusform><numerusform>%n активных соединений с сетьюhavercoinin</numerusform><numerusform>%n активных соединений с сетьhavercoinoin</numerusform><numerusform>%n активных соединений с сетhavercoincoin</numerusform></translation>
+        <translation><numerusform>%n активных соединений с сетью havercoin</numerusform><numerusform>%n активных соединений с сетьюhavercoin</numerusform><numerusform>%n активных соединений с сетьhavercoinoin</numerusform><numerusform>%n активных соединений с сетhavercoincoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -2288,8 +2288,8 @@
         <translation>Введите метку для этого адреса, чтобы добавить его в список использованных</translation>
     </message>
     <message>
-        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thehavercoinin network.</source>
-        <translation>К havercoin: URI было прикреплено сообщение, которое будет сохранено вместе с транзакцией для вашего сведения. Заметьте: сообщение не будет отправлено через сетьhavercoinin.</translation>
+        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thehavercoin network.</source>
+        <translation>К havercoin: URI было прикреплено сообщение, которое будет сохранено вместе с транзакцией для вашего сведения. Заметьте: сообщение не будет отправлено через сетьhavercoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>

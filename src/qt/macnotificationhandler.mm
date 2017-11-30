@@ -13,7 +13,7 @@
 - (NSString *)__bundleIdentifier
 {
     if (self == [NSBundle mainBundle]) {
-        return @"org.havercoinhavercoininin-Qt";
+        return @"org.havercoinhavercoin-Qt";
     } else {
         return [self __bundleIdentifier];
     }

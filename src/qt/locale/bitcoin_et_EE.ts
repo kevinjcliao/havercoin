@@ -130,8 +130,8 @@
         <translation>Kõvakettal olevate plokkide reindekseerimine...</translation>
     </message>
     <message>
-        <source>havercoinnn</source>
-        <translation>havercoinnn</translation>
+        <source>havercoin</source>
+        <translation>havercoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -760,8 +760,8 @@
         <translation>Valikud:</translation>
     </message>
     <message>
-        <source>havercoinnn Core</source>
-        <translation>havercoinnn Core</translation>
+        <source>havercoin Core</source>
+        <translation>havercoin Core</translation>
     </message>
     <message>
         <source>Information</source>

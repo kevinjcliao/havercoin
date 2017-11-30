@@ -231,7 +231,7 @@
     </message>
     <message>
         <source>Sign messages with your havercoin addresses to prove you own them</source>
-        <translation>เซ็นชื่อด้วยข้อความ ที่เก็บ havercoin เพื่อแสดงว่าท่านเป็นเจ้าของhavercoinin นี้จริง</translation>
+        <translation>เซ็นชื่อด้วยข้อความ ที่เก็บ havercoin เพื่อแสดงว่าท่านเป็นเจ้าของhavercoin นี้จริง</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified havercoin addresses</source>

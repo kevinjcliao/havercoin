@@ -435,7 +435,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to havercoin network</source>
-        <translation><numerusform>%n ligação ativa à rede havercoin</numerusform><numerusform>%n ligações ativas à redehavercoinin</numerusform></translation>
+        <translation><numerusform>%n ligação ativa à rede havercoin</numerusform><numerusform>%n ligações ativas à redehavercoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -2281,8 +2281,8 @@
         <translation>Introduza um rótulo para este endereço para o adicionar à sua lista de endereços usados</translation>
     </message>
     <message>
-        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thehavercoinin network.</source>
-        <translation>Uma mensagem que estava anexada ao URI havercoin: que será armazenada com a transação para sua referência. Nota: Esta mensagem não será enviada através da redehavercoinin.</translation>
+        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thehavercoin network.</source>
+        <translation>Uma mensagem que estava anexada ao URI havercoin: que será armazenada com a transação para sua referência. Nota: Esta mensagem não será enviada através da redehavercoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>

@@ -327,7 +327,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to havercoin network</source>
-        <translation><numerusform>%n conexiune activă către reţeaua havercoin</numerusform><numerusform>%n conexiuni active către reţeauahavercoinin</numerusform><numerusform>%n de conexiuni active către reţeauhavercoinoin</numerusform></translation>
+        <translation><numerusform>%n conexiune activă către reţeaua havercoin</numerusform><numerusform>%n conexiuni active către reţeauahavercoin</numerusform><numerusform>%n de conexiuni active către reţeauhavercoinoin</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Processed %n block(s) of transaction history.</source>
@@ -1500,8 +1500,8 @@
         <translation>Introduceţi eticheta pentru ca această adresa să fie introdusă în lista de adrese folosite</translation>
     </message>
     <message>
-        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thehavercoinin network.</source>
-        <translation>un mesaj a fost ataşat la havercoin: URI care va fi stocat cu tranzacţia pentru referinţa dvs. Notă: Acest mesaj nu va fi trimis către reţeauahavercoinin.</translation>
+        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thehavercoin network.</source>
+        <translation>un mesaj a fost ataşat la havercoin: URI care va fi stocat cu tranzacţia pentru referinţa dvs. Notă: Acest mesaj nu va fi trimis către reţeauahavercoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>

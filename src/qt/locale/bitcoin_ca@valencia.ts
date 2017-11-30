@@ -1892,8 +1892,8 @@
         <translation>Introduïu una etiqueta per a esta adreça per afegir-la a la llista d'adreces utilitzades</translation>
     </message>
     <message>
-        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thhavercoininin network.</source>
-        <translation>Un missatge que s'ha adjuntat al havercoin: URI que s'emmagatzemarà amb la transacció per a la vostra referència. Nota: el missatge no s'enviarà a través de la xarxhavercoininin.</translation>
+        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thhavercoin network.</source>
+        <translation>Un missatge que s'ha adjuntat al havercoin: URI que s'emmagatzemarà amb la transacció per a la vostra referència. Nota: el missatge no s'enviarà a través de la xarxhavercoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>

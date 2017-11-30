@@ -63,7 +63,7 @@
     </message>
     <message>
         <source>These are your havercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Disse er dine havercoin-adresser til afsendelse af betalinger. Tjek altid beløb og modtagelsesadresse, inden du sendehavercoininins.</translation>
+        <translation>Disse er dine havercoin-adresser til afsendelse af betalinger. Tjek altid beløb og modtagelsesadresse, inden du sendehavercoins.</translation>
     </message>
     <message>
         <source>These are your havercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
@@ -339,7 +339,7 @@
     </message>
     <message>
         <source>Send coins to a havercoin address</source>
-        <translation>Send havercoins til ehavercoininin-adresse</translation>
+        <translation>Send havercoins til ehavercoin-adresse</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -435,7 +435,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to havercoin network</source>
-        <translation><numerusform>%n aktiv forbindelse til havercoin-netværket</numerusform><numerusform>%n aktive forbindelser tihavercoininin-netværket</numerusform></translation>
+        <translation><numerusform>%n aktiv forbindelse til havercoin-netværket</numerusform><numerusform>%n aktive forbindelser tihavercoin-netværket</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -2288,7 +2288,7 @@
         <translation>Indtast et mærkat for denne adresse for at føje den til listen over brugte adresser</translation>
     </message>
     <message>
-        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thhavercoininin network.</source>
+        <source>A message that was attached to the havercoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over thhavercoin network.</source>
         <translation>En besked, som blev føjet til “bitcon:”-URI'en, som vil gemmes med transaktionen til din reference. Bemærk: Denne besked vil ikke blive sendt over havercoin-netværket.</translation>
     </message>
     <message>
