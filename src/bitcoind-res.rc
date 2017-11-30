@@ -17,7 +17,7 @@ BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
             VALUE "CompanyName",        "havercoin"
-            VALUE "FileDescription",    "havercoind havercoinin node with a JSON-RPC server)"
+            VALUE "FileDescription",    "havercoind havercoin node with a JSON-RPC server)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "havercoind"
             VALUE "LegalCopyright",     COPYRIGHT_STR
